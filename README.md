@@ -35,7 +35,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 I had a couple of challenges. When I started the application a couple of days ago I had ran through the tutorials only to find out that the commons apache library was not able to be uploaded so I was not able to add the removal functionality to my application. I also had a problem with sharing my code onto github because Android Studio wouldnt take my password even after reseting it. I had a lot of fun with this projecet but I ran into a couple problems as well.
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2020] [Eddie Binion]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
